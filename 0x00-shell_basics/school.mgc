@@ -1,1 +1,2 @@
-ñ                                                                                                                                                                                                                                                                                                                                                      =                        SCHOOL                                                                                          School data                                                     School
+#!/bin/bash
+ln -s /bin/ls __ls__
